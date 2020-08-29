@@ -17,6 +17,9 @@ I build open source software with Python and JavaScript and sometimes C/C++, BTW
 ### Social Media : 
 [[FACEBOOK]](https://facebook.com/bauripalash) | [[TWITTER]](https://twitter.com/bauripalash) | [[INSTAGRAM]](https://instagram.com/bauripalash)
 
+---
+![](https://profile-counter.glitch.me/bauripalash/count.svg)
+
 <!--
 **bauripalash/bauripalash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
