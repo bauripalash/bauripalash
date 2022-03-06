@@ -2,7 +2,7 @@
 # I'm Palash Bauri
 
 <https://palashbauri.in>
-
+- 🏫 Currently doing Diploma in Elementary Education at a Teachers' Training College.
 - 🔭 I’m currently working on : 
     * Building a application to livestream from action camera with 4k 60fps,
     * Bauri Protocol, experimental alternative to TCP/IP
@@ -14,7 +14,9 @@
     * mail me ~ me (at) palashbauri.in
     * twitter ~ [@bauripalash](https://twitter.com/bauripalash)
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: <TODO: Fun fact here>
+- ⚡ Fun Fact(s):
+    * The tropic on cancer line, passes just below our neighborhood (So, usually it's very hot here in Summer)
+    * <TODO: Another fun fact here>
 
 ---
 ![](https://profile-counter.glitch.me/bauripalash/count.svg)
