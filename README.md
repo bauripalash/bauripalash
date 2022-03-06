@@ -2,7 +2,9 @@
 # I'm Palash Bauri
 
 <https://palashbauri.in>
-- 🏫 Currently doing Diploma in Elementary Education at a Teachers' Training College.
+
+- 🏫 Study : 
+    * Currently doing Diploma in Elementary Education at a Teachers' Training College.
 - 🔭 I’m currently working on : 
     * Building a application to livestream from action camera with 4k 60fps,
     * Bauri Protocol, experimental alternative to TCP/IP
