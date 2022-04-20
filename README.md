@@ -6,7 +6,7 @@
 - 🏫 Study : 
     * Currently doing Diploma in Elementary Education at a Teachers' Training College.
 - 🔭 I’m currently working on : 
-    * Building a application to livestream from action camera with 4k 60fps,
+    * Mewl programming language,
     * Bauri Protocol, experimental alternative to TCP/IP
 - 🌱 I’m currently learning :
     * How to not talk stupid.
@@ -17,7 +17,7 @@
     * twitter ~ [@bauripalash](https://twitter.com/bauripalash)
 - 😄 Pronouns: He/him
 - ⚡ Fun Fact(s):
-    * The tropic on cancer line, passes just below our neighborhood (So, usually it's very hot here in Summer)
+    * The tropic of cancer line, passes just below our neighborhood (So, usually it's very hot here in Summer)
     * <TODO: Another fun fact here>
 
 ---
