@@ -14,6 +14,7 @@
 - 💬 Ask me about : Anything
 - 📫 How to reach me: 
     * mail me ~ me (at) palashbauri.in
+    * mastodon ~ [@bauripalash@fosstodon.org](https://fosstodon.org/@bauripalash)
     * twitter ~ [@bauripalash](https://twitter.com/bauripalash)
 - 😄 Pronouns: He/him
 - ⚡ Fun Fact(s):
