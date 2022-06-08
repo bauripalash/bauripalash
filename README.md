@@ -22,7 +22,7 @@
     * <TODO: Another fun fact here>
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bauripalash&hide=C%2B%2B,html,javascript,css,svelte,ANTLR,XSLT&layout=compact&langs_count=10) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bauripalash&hide=C%2B%2B,html,javascript,css,svelte,ANTLR,XSLT&layout=compact&langs_count=10&exclude_repo=yarn) 
 
 ![Palash's GitHub stats](https://github-readme-stats.vercel.app/api?username=bauripalash&count_private=true&show_icons=true)
 ---
