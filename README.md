@@ -1,7 +1,7 @@
 ### Hi there 👋
 # I'm Palash Bauri
 
-<https://palashbauri.in>
+🌾 <https://palashbauri.in>
 
 - 🏫 Study : 
     * Currently doing Diploma in Elementary Education at a Teachers' Training College.
