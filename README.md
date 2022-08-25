@@ -4,10 +4,10 @@
 🌾 <https://palashbauri.in>
 
 - 🏫 Study : 
-    * Currently doing Diploma in Elementary Education at a Teachers' Training College.
+    * Currently doing Bachelor's in English Literature at NSOU
 - 🔭 I’m currently working on : 
-    * Mewl programming language,
-    * Bauri Protocol, experimental alternative to TCP/IP
+    * Publishing my First Book
+    * Dinolog protocol
 - 🌱 I’m currently learning :
     * How to not talk stupid.
     * Philosophy of Reality
