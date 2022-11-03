@@ -5,6 +5,7 @@
 
 - 🏫 Study : 
     * Currently doing Bachelor's in English Literature at NSOU
+    * Diploma in Elementary Education (2020-2022)
 - 🔭 I’m currently working on : 
     * Publishing my First Book
     * Dinolog protocol
