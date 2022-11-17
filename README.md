@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on : 
     * Publishing my First Book
     * Dinolog protocol
-    * Vabna, a bengali programming language 
+    * Pankti, a bengali programming language 
 - 🌱 I’m currently learning :
     * How to not talk stupid.
     * Philosophy of Reality
