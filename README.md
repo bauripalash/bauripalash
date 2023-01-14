@@ -4,7 +4,7 @@
 🌾 <https://palashbauri.in>
 
 - 🏫 Study : 
-    * Currently doing Bachelor's in English Literature at NSOU
+    * Currently doing Bachelor's in English Literature at NSOU (2022 - Present)
     * Diploma in Elementary Education (2020-2022)
 - 🔭 I’m currently working on : 
     * Publishing my First Book
