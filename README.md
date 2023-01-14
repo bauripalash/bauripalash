@@ -24,11 +24,11 @@
     * <TODO: Another fun fact here>
 
 ---
-![Top Langs](https://readme-stats-palash.vercel.app/api/top-langs/?username=bauripalash&hide=C%2B%2B,html,javascript,css,svelte,ANTLR,XSLT,Latte&layout=compact&langs_count=10&exclude_repo=yarn,vabna-pre) 
+![Top Langs - If not working please Refresh )](https://readme-stats-palash.vercel.app/api/top-langs/?username=bauripalash&hide=C%2B%2B,html,javascript,css,svelte,ANTLR,XSLT,Latte&layout=compact&langs_count=10&exclude_repo=yarn,vabna-pre) 
 
-![Palash's GitHub stats](https://readme-stats-palash.vercel.app/api?username=bauripalash&count_private=true&show_icons=true)
+![Palash's GitHub stats - If not working please Refresh](https://readme-stats-palash.vercel.app/api?username=bauripalash&count_private=true&show_icons=true)
 ---
-![](https://profile-counter.glitch.me/bauripalash/count.svg)
+![Visitor Count - If not working please Refresh](https://profile-counter.glitch.me/bauripalash/count.svg)
 
 <!--
 **bauripalash/bauripalash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
