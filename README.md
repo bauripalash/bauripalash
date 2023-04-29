@@ -7,8 +7,8 @@
     * Currently doing Bachelor's in English Literature at NSOU (2022 - Present)
     * Diploma in Elementary Education (2020-2022)
 - 🔭 I’m currently working on : 
-    * Publishing my First Book
-    * Dinolog protocol
+    * Publishing my First Book (published 2023)
+    * baurinum, a lightweight and somewhat fast bignum library
     * Pankti, a bengali programming language 
 - 🌱 I’m currently learning :
     * How to not talk stupid.
