@@ -24,7 +24,8 @@
     * <TODO: Another fun fact here>
 
 ---
-<!-- ![Top Langs - If not working please Refresh )](https://github-readme-stats.vercel.app/api/top-langs/?username=bauripalash&hide=C%2B%2B,html,javascript,css,svelte,ANTLR,XSLT,Latte&layout=compact&langs_count=12&exclude_repo=pankti,yarn) -->
+![Top Langs - If not working please Refresh )](https://github-readme-stats.vercel.app/api/top-langs/?username=bauripalash&hide=C%2B%2B,html,javascript,css,svelte,ANTLR,XSLT,Latte&layout=compact&langs_count=12&exclude_repo=yarn&hide_progress=true)
+
 
 ![Palash's GitHub stats - If not working please Refresh](https://github-readme-stats.vercel.app/api?username=bauripalash&count_private=true&show_icons=true)
 ---
