@@ -1,4 +1,9 @@
 ### Hi there 👋
+
+![palash_pixelart](https://github.com/bauripalash/bauripalash/assets/16154204/6f9f953e-454e-42ee-a590-38c047a5cc3b)
+
+
+
 # I'm Palash Bauri
 
 🌾 <https://palashbauri.in>
