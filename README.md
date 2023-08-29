@@ -6,6 +6,8 @@
 
 # I'm Palash Bauri
 
+#### 🤒 I am ill. I am not working on any project right now.
+
 🌾 <https://palashbauri.in>
 
 - 🏫 Study : 
