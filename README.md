@@ -6,7 +6,6 @@
 
 # I'm Palash Bauri
 
-#### 🤒 My mum's very ill. I am not working on any project right now.
 
 🌾 <https://palashbauri.in>
 
