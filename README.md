@@ -13,7 +13,7 @@
     * Currently doing Bachelor's in English Literature at NSOU (2022 - Present)
     * Diploma in Elementary Education (2020-2022)
 - 🔭 I’m currently working on : 
-    * Publishing my First Book (published 2023)
+    * Published my First Book, "আকাশগল্প" (English name : "Aakashgolpo", meaning, Tale of Sky) ISBN: 978-93-91776-10-7. Published 2023.
     * baurinum, a lightweight and somewhat fast bignum library
     * Pankti, a bengali programming language 
 - 🌱 I’m currently learning :
