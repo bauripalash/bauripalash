@@ -35,7 +35,7 @@
 
 ![Palash's GitHub stats - If not working please Refresh](https://github-readme-stats.vercel.app/api?username=bauripalash&count_private=true&show_icons=true)
 ---
-![Visitor Count - If not working please Refresh](https://komarev.com/ghpvc/?username=bauripalash&label=%F0%9F%98%81+%F0%9F%91%8B&abbreviated=true&base=7800&color=brightgreen&style=for-the-badge)
+![Visitor Count - If not working please Refresh](https://komarev.com/ghpvc/?username=bauripalash&label=%F0%9F%98%81+%F0%9F%91%8B&base=7800&color=brightgreen&style=for-the-badge)
 
 <!--
 **bauripalash/bauripalash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
