@@ -22,8 +22,8 @@
 - 💬 Ask me about : Anything
 - 📫 How to reach me: 
     * mail me ~ me (at) palashbauri.in
-    * mastodon ~ [@bauripalash@fosstodon.org](https://fosstodon.org/@bauripalash)
-    * twitter ~ [@bauripalash](https://twitter.com/bauripalash)
+    * bluesky ~ [@palashbauri.in](https://bsky.app/profile/palashbauri.in)
+    * X/twitter~ [@bauripalash](https://twitter.com/bauripalash)
 - 😄 Pronouns: He/him
 - ⚡ Fun Fact(s):
     * The tropic of cancer line, passes just below our neighborhood (So, usually it's very hot here in Summer)
