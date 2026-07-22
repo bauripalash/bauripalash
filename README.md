@@ -5,25 +5,37 @@
 
 
 # I'm Palash Bauri
-
-
 🌾 <https://palashbauri.in>
+
+I am a developer, student from India who enjoys building programming languages,
+developer tools, games. I also write short stories, essays, and poetry in Bengali 
+and English language.
+
 
 - 🏫 Education : 
     * Currently doing Bachelor's in English Literature at NSOU (2022 - Present)
     * Diploma in Elementary Education (2020-2022)
 - 🔭 I’m currently working on : 
-    * Published my First Book, "আকাশগল্প" (English name : "Aakashgolpo", meaning, Tale of Sky) ISBN: 978-93-91776-10-7. Published 2023.
-    * baurinum, a lightweight and somewhat fast bignum library
-    * Pankti, a bengali programming language 
+    * BauriPixel, a simple and lightweight pixel art editor (C)
+    * Pankti, a bengali programming language (C, bytecode compiled with VM)
+    * My first game for the Game Boy Advance (C, C++)
+    * Genetic algorithm based farming game
 - 🌱 I’m currently learning :
-    * How to not talk stupid.
+    * System Programming
+    * Game Boy Advance Development
     * Philosophy of Reality
-- 💬 Ask me about : Anything
+- 📖 Publications:
+    * "আকাশগল্প" (English name : "Aakashgolpo", meaning, Tale of Sky) ISBN: 978-93-91776-10-7. Published 2023.
+- 💬 Ask me about:
+    * C
+    * Programming Languages
+    * Pixel Art
+    * Retro Game Development
+    * Open Source
 - 📫 How to reach me: 
     * mail me ~ me (at) palashbauri.in
     * bluesky ~ [@palashbauri.in](https://bsky.app/profile/palashbauri.in)
-    * X/twitter~ [@bauripalash](https://twitter.com/bauripalash)
+    * X/twitter ~ [@bauripalash](https://x.com/bauripalash)
 - 😄 Pronouns: He/him
 - ⚡ Fun Fact(s):
     * The tropic of cancer line, passes just below our neighborhood (So, usually it's very hot here in Summer)
