@@ -13,12 +13,13 @@ and English language.
 
 
 - 🏫 Education : 
-    * Currently doing Bachelor's in English Literature at NSOU (2022 - Present)
+    * Master's in English at NSOU (2026-Present)
+    * Bachelor's in English (Hons) at NSOU (2022 - 2026)
     * Diploma in Elementary Education (2020-2022)
 - 🔭 I’m currently working on : 
     * BauriPixel, a simple and lightweight pixel art editor (C)
     * Pankti, a bengali programming language (C, bytecode compiled with VM)
-    * My first game for the Game Boy Advance (C, C++)
+    * My first game for the Game Boy Advance (C)
     * Genetic algorithm based farming game
 - 🌱 I’m currently learning :
     * System Programming
