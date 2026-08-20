@@ -26,7 +26,7 @@ and English language.
     * Game Boy Advance Development
     * Philosophy of Reality
 - 📖 Publications:
-    * "আকাশগল্প" (English name : "Aakashgolpo", meaning, Tale of Sky) ISBN: 978-93-91776-10-7. Published 2023.
+    * "আকাশগল্প" (English name : "Aakashgolpo", meaning, Tale of Sky) ISBN: 978-93-91776-10-7. Published August 25, 2022.
 - 💬 Ask me about:
     * C
     * Programming Languages
